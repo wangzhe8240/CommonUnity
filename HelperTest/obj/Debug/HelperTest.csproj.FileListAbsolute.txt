@@ -1,0 +1,12 @@
+E:\个人项目\forexample\CommonFrame\PublicProgram\HelperTest\bin\Debug\HelperTest.exe
+E:\个人项目\forexample\CommonFrame\PublicProgram\HelperTest\bin\Debug\HelperTest.pdb
+E:\个人项目\forexample\CommonFrame\PublicProgram\HelperTest\bin\Debug\PublicProgram.dll
+E:\个人项目\forexample\CommonFrame\PublicProgram\HelperTest\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\个人项目\forexample\CommonFrame\PublicProgram\HelperTest\bin\Debug\System.Data.SQLite.dll
+E:\个人项目\forexample\CommonFrame\PublicProgram\HelperTest\bin\Debug\PublicProgram.pdb
+E:\个人项目\forexample\CommonFrame\PublicProgram\HelperTest\bin\Debug\System.Data.SQLite.xml
+E:\个人项目\forexample\CommonFrame\PublicProgram\HelperTest\obj\Debug\HelperTest.csprojResolveAssemblyReference.cache
+E:\个人项目\forexample\CommonFrame\PublicProgram\HelperTest\obj\Debug\HelperTest.exe
+E:\个人项目\forexample\CommonFrame\PublicProgram\HelperTest\obj\Debug\HelperTest.pdb
+E:\个人项目\forexample\CommonFrame\PublicProgram\HelperTest\bin\Debug\log4net.dll
+E:\个人项目\forexample\CommonFrame\PublicProgram\HelperTest\bin\Debug\log4net.xml

@@ -1,0 +1,7 @@
+E:\个人项目\forexample\CommonFrame\PublicProgram\LoggerHelper\bin\Debug\LoggerHelper.dll
+E:\个人项目\forexample\CommonFrame\PublicProgram\LoggerHelper\bin\Debug\LoggerHelper.pdb
+E:\个人项目\forexample\CommonFrame\PublicProgram\LoggerHelper\obj\Debug\LoggerHelper.dll
+E:\个人项目\forexample\CommonFrame\PublicProgram\LoggerHelper\obj\Debug\LoggerHelper.pdb
+E:\个人项目\forexample\CommonFrame\PublicProgram\LoggerHelper\bin\Debug\log4net.dll
+E:\个人项目\forexample\CommonFrame\PublicProgram\LoggerHelper\bin\Debug\log4net.xml
+E:\个人项目\forexample\CommonFrame\PublicProgram\LoggerHelper\obj\Debug\LoggerHelper.csprojResolveAssemblyReference.cache

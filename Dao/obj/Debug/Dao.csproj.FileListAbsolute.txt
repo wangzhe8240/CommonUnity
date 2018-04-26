@@ -1,0 +1,5 @@
+E:\个人项目\forexample\CommonFrame\PublicProgram\Dao\bin\Debug\Dao.dll
+E:\个人项目\forexample\CommonFrame\PublicProgram\Dao\bin\Debug\Dao.pdb
+E:\个人项目\forexample\CommonFrame\PublicProgram\Dao\obj\Debug\Dao.csprojResolveAssemblyReference.cache
+E:\个人项目\forexample\CommonFrame\PublicProgram\Dao\obj\Debug\Dao.dll
+E:\个人项目\forexample\CommonFrame\PublicProgram\Dao\obj\Debug\Dao.pdb
